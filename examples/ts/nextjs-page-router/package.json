@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ccxt": "^4.1.56",
+    "ccxt": "^4.3.3",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"
