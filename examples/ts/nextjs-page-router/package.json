@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ccxt": "^4.1.56",
-    "next": "14.0.3",
-    "react": "^18",
-    "react-dom": "^18"
+    "ccxt": "^4.3.89",
+    "next": "14.2.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/node": "^20",
